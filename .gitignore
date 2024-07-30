@@ -4,7 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/src/components/coffeShop
+/src/components/form
+/src/components/Hero.jsx
+/src/components/Nav.jsx
+/src/components/Player.jsx
+/src/components/Profile.jsx
+/src/context.js
+/src/MouseMove.jsx
 # testing
 /coverage
 

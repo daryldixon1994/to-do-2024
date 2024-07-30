@@ -1,0 +1,25 @@
+#nav-container {
+  display: flex;
+  align-items: center !important;
+  gap: 25px;
+  /* border-bottom: 2px blue solid; */
+  padding: 15px 30px;
+  background-color: white;
+  color: darkslateblue;
+}
+#nav-container h2 {
+  margin: 0;
+}
+.links-nav {
+  display: flex;
+  width: 20%;
+  gap: 15px;
+}
+.links-nav a {
+  all: unset;
+  font-weight: 600;
+  cursor: pointer;
+}
+#profile {
+  color: white;
+}

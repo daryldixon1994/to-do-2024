@@ -1,0 +1,50 @@
+#navBar-container {
+  /* border: 1px black solid; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 100px;
+}
+#navBar-container h1 {
+  margin: 0;
+}
+#navbar-links-box {
+  display: flex;
+  gap: 30px;
+}
+#navbar-links-box a {
+  all: unset;
+  font-weight: 800;
+}
+#navbar-btns {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+#main-container {
+  /* border: 1px black solid; */
+  margin: 25px 100px;
+  min-height: 100vh;
+}
+#section-one-container {
+  /* border: 1px green solid; */
+  display: flex;
+  justify-content: space-between;
+}
+#block-with-btn {
+  /* border: 1px blue solid; */
+  width: 65%;
+}
+#block-with-btn h1 {
+  font-size: 5rem;
+}
+#block-with-btn p {
+  color: rgb(152, 152, 152);
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+#block-with-btn h6 {
+  color: #f2711c;
+  font-size: 1.2rem;
+  font-weight: 800;
+}
