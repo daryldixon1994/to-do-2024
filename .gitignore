@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/components/coffeShop
+/src/components/coffeeShop
 /src/components/form
 /src/components/Hero.jsx
 /src/components/Nav.jsx
